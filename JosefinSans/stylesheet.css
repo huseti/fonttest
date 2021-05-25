@@ -1,0 +1,39 @@
+/* Josefin Regular */
+@font-face {
+font-family: 'Josefin';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://github.wdf.sap.corp/I543580/FonttestJosefin/raw/master/Josefin%20Sans/JosefinSans-Regular.ttf) format('truetype');
+/* src: url(https://your-web-server.com/fonts/Josefin/Josefin-Regular.ttf) format('truetype'); */
+}
+
+/* Josefin Italic */
+@font-face {
+font-family: 'Josefin';
+font-style: italic;
+font-weight: 400;
+font-display: swap;
+src: url(https://github.wdf.sap.corp/I543580/FonttestJosefin/raw/master/Josefin%20Sans/Josefin-Italic.ttf) format('truetype');
+/* src: url(https://your-web-server.com/fonts/Josefin/Josefin-Italic.ttf) format('truetype'); */
+}
+
+/* Josefin Bold */
+@font-face {
+font-family: 'Josefin';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://github.wdf.sap.corp/I543580/FonttestJosefin/raw/master/Josefin%20Sans/Josefin-Bold.ttf) format('truetype');
+/* src: url(https://your-web-server.com/fonts/Josefin/Josefin-Bold.ttf) format('truetype'); */
+}
+
+/* Josefin Bold Italic */
+@font-face {
+font-family: 'Josefin';
+font-style: italic;
+font-weight: 700;
+font-display: swap;
+src: url(https://github.wdf.sap.corp/I543580/FonttestJosefin/raw/master/Josefin%20Sans/Josefin-BoldItalic.ttf) format('truetype');
+/* src: url(https://your-web-server.com/fonts/Josefin/Josefin-Bold.ttf) format('truetype'); */
+}
