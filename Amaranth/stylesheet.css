@@ -4,7 +4,7 @@ font-family: 'Amaranth';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url(https://huseti.github.io/Amaranth/Amaranth-Regular.ttf) format('opentype');
+src: url(https://huseti.github.io/Amaranth/Amaranth-Regular.otf) format('opentype');
 }
 
 /* Amaranth Italic */
@@ -13,7 +13,7 @@ font-family: 'Amaranth';
 font-style: italic;
 font-weight: 400;
 font-display: swap;
-src: url(https://huseti.github.io/Amaranth/Amaranth-Italic.ttf) format('opentype');
+src: url(https://huseti.github.io/Amaranth/Amaranth-Italic.otf) format('opentype');
 }
 
 /* Amaranth Bold */
@@ -22,7 +22,7 @@ font-family: 'Amaranth';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url(https://huseti.github.io/Amaranth/Amaranth-Bold.ttf) format('opentype');
+src: url(https://huseti.github.io/Amaranth/Amaranth-Bold.otf) format('opentype');
 }
 
 /* Amaranth Bold Italic */
@@ -31,5 +31,5 @@ font-family: 'Amaranth';
 font-style: italic;
 font-weight: 700;
 font-display: swap;
-src: url(https://huseti.github.io/Amaranth/Amaranth-BoldItalic.ttf) format('opentype');
+src: url(https://huseti.github.io/Amaranth/Amaranth-BoldItalic.otf) format('opentype');
 }
