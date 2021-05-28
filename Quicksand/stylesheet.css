@@ -1,0 +1,35 @@
+/* Quicksand Regular */
+@font-face {
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://huseti.github.io/Quicksand/Quicksand_Standard.eot) format('embedded-opentype');
+}
+
+/* Quicksand Italic */
+@font-face {
+font-family: 'Quicksand';
+font-style: italic;
+font-weight: 400;
+font-display: swap;
+src: url(https://huseti.github.io/Quicksand/Quicksand_Italic.eot) format('embedded-opentype');
+}
+
+/* Quicksand Bold */
+@font-face {
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://huseti.github.io/Quicksand/Quicksand_Bold.eot) format('embedded-opentype');
+}
+
+/* Quicksand Bold Italic */
+@font-face {
+font-family: 'Quicksand';
+font-style: italic;
+font-weight: 700;
+font-display: swap;
+src: url(https://huseti.github.io/Quicksand/Quicksand_Bold_Italic.eot) format('embedded-opentype');
+}
