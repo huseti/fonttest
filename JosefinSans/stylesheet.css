@@ -1,6 +1,6 @@
 /* Josefin Regular */
 @font-face {
-font-family: 'Josefin';
+font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
@@ -9,7 +9,7 @@ src: url(https://huseti.github.io/JosefinSans/JosefinSans-Regular.ttf) format('t
 
 /* Josefin Italic */
 @font-face {
-font-family: 'Josefin';
+font-family: 'Josefin Sans';
 font-style: italic;
 font-weight: 400;
 font-display: swap;
@@ -18,7 +18,7 @@ src: url(https://huseti.github.io/JosefinSans/JosefinSans-Italic.ttf) format('tr
 
 /* Josefin Bold */
 @font-face {
-font-family: 'Josefin';
+font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
@@ -27,7 +27,7 @@ src: url(https://huseti.github.io/JosefinSans/JosefinSans-Bold.ttf) format('true
 
 /* Josefin Bold Italic */
 @font-face {
-font-family: 'Josefin';
+font-family: 'Josefin Sans';
 font-style: italic;
 font-weight: 700;
 font-display: swap;
